@@ -10,4 +10,16 @@
   + also 3rd party software
   + bundled openSSH .... --> just select the same things like he did until you hit "install"
 
+(following points arent ready yet! und sorry gerade gecheckt, dass ich alles auf englisch schreib.. ich mach jetzt so weiter)
 ### 2. Connect your GitHub account
+#### Creating a SSH key 
+
+#### Connecting GitHub with local Git
++ Open VSCodium --> i hope my following instructions are the same under windows
++ click on "Terminal" open "new Terminal"
++ a shell / terminal / etx opnes in VSCodium
++ copy and paste following code, put in your specific data (user name, email adress)
+  'git config --global user.name "freedom_34 or so"'
+  'git config --global user.email "natti@google.de"'
+
+
